@@ -1,1 +1,1 @@
-# Project-2
+# Early College Project
